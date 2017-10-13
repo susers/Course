@@ -17,4 +17,5 @@ TODO
 
 ### 2017-2018
 
-- [HelloSUS](https://drive.google.com/drive/u/1/folders/0B8zwt3w5iOEVQ3J2bUNRLTIxaTA) from **Xu**
+- [HelloSUS](https://github.com/susers/Course/tree/master/2017-2018/9-HelloSUS) from **Xu**
+- [Know it then Hack it](https://github.com/susers/Course/tree/master/2017-2018/10-Know%20it%20the%20Hack%20it) from **SUSers**
