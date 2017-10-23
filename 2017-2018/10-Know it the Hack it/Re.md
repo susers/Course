@@ -13,7 +13,6 @@
 
 ## Practices
 
-- 160个Crackme [Click Me](./attachments/crackme.rar)
 - [Reversing.Kr](http://reversing.kr/challenge.php)
 - [实验吧](http://www.shiyanbar.com/ctf/practice)
 - [XCTF-OJ](http://oj.xctf.org.cn/)
