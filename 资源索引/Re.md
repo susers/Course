@@ -13,7 +13,7 @@
 
 ## Practices
 
-- 160个Crackme [Click Me](./attachments/crackme.rar)
+- 160个Crackme [Click Me](./files/Re/crackme.rar)
 - [Reversing.Kr](http://reversing.kr/challenge.php)
 - [实验吧](http://www.shiyanbar.com/ctf/practice)
 - [XCTF-OJ](http://oj.xctf.org.cn/)
@@ -24,3 +24,13 @@
 - IDA Pro 7.0
 - OllyDbg
 - [Retargetable Decompiler](https://retdec.com/)
+
+## Obfuscator
+
+- movfuscator
+	- [Source Code](https://github.com/xoreaxeaxeax/movfuscator)
+	- [Introduction](./files/Re/recon2015-14-christopher-domas-The-movfuscator.pdf)
+	- [Demovfuscator](https://github.com/kirschju/demovfuscator) 用于恢复程序跳转流程，无法恢复其余指令
+	- [侧信道攻击1](https://dustri.org/b/defeating-the-recons-movfuscator-crackme.html) 适用于逐位比对的情况
+	- [侧信道攻击2](http://www.cnblogs.com/wangaohui/p/5706816.html)
+	- 可尝试利用Angr符号执行进行侧信道攻击
