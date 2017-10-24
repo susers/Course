@@ -9,7 +9,7 @@
 - [吾爱破解](https://www.52pojie.cn/)
 
 ## Practices
-- 160个Crackme [Click Me](/files/Re/crackme.rar)
+- 160个Crackme [Click Me](/资源索引/files/CTF/Jeopardy/Re/crackme.rar)
 - [Reversing.Kr](http://reversing.kr/challenge.php)
 - [实验吧](http://www.shiyanbar.com/ctf/practice)
 - [XCTF-OJ](http://oj.xctf.org.cn/)
@@ -24,7 +24,7 @@
 ### Obfuscator
 - movfuscator
 	- [Source Code](https://github.com/xoreaxeaxeax/movfuscator)
-	- [Introduction](/files/Re/recon2015-14-christopher-domas-The-movfuscator.pdf)
+	- [Introduction](/资源索引/files/CTF/Jeopardy/Re/recon2015-14-christopher-domas-The-movfuscator.pdf)
 	- [Demovfuscator](https://github.com/kirschju/demovfuscator) 用于恢复程序跳转流程，无法恢复其余指令
 	- [侧信道攻击1](https://dustri.org/b/defeating-the-recons-movfuscator-crackme.html) 适用于逐位比对的情况
 	- [侧信道攻击2](http://www.cnblogs.com/wangaohui/p/5706816.html)
