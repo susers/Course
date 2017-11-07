@@ -17,7 +17,7 @@
     - [CTF Field Guide](https://trailofbits.github.io/ctf/)
 
 - Jeopardy(技能赛)
-    - [Misc](CTF/jeopardy/Misc.md)
+    - [Misc](CTF/Jeopardy/Misc.md)
     - [Web](CTF/Jeopardy/Web.md)
     - [Android](CTF/Jeopardy/Android.md)
     - [Reverse](CTF/Jeopardy/Re.md)
@@ -25,7 +25,7 @@
     - [Pwn](CTF/Jeopardy/Pwn.md)
 
 - 攻防赛(AWD)
-    - AWD
+    - [AWD](CTF/AWD)
 
 ## Else
 
