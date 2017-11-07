@@ -1,4 +1,4 @@
-# Know it then Hack it(V1.0)
+# Know it then Hack it(origin)
 
 ## All
 

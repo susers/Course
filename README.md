@@ -24,3 +24,4 @@ TODO
 
 - [HelloSUS](2017-2018/9-HelloSUS) from **Xu**
 - [Know it then Hack it](2017-2018/10-Know%20it%20the%20Hack%20it) from **SUSers**
+- [Misc](2017-2018/11-Misc) from **Xu**
