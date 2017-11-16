@@ -16,9 +16,31 @@
 - [CTFs](https://github.com/ctfs)
 
 ## Tools
-- IDA Pro 7.0
-- OllyDbg
+### HexEditors
+- [010Editor](http://www.sweetscape.com/010editor/)
+- [HxD](https://mh-nexus.de/en/hxd/)
+- [WinHex](http://www.x-ways.net/winhex/)
+
+### Disassembler & Decompiler
+- [IDA Pro 7.0](https://www.hex-rays.com/products/ida/index.shtml)
+- [Binary Ninja](https://binary.ninja/)
+- [Radare](http://www.radare.org/r/)
+- [objdump](http://linux.die.net/man/1/objdump)
 - [Retargetable Decompiler](https://retdec.com/)
+
+### Debugger
+- [OllyDbg](http://www.ollydbg.de/version2.html)
+- [x64dbg](http://x64dbg.com/#start)
+- [WinDBG](https://msdn.microsoft.com/en-us/windows/hardware/hh852365.aspx)
+- [gdb](https://www.gnu.org/software/gdb/)
+
+### Binary Analysis
+- [angr](https://github.com/angr/angr)
+
+### Binary Format Analysis
+- [CFF Explorer](http://www.ntcore.com/exsuite.php)
+- [PEiD](https://tuts4you.com/download.php?view.398)
+
 
 ## Articles
 ### Obfuscator
