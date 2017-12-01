@@ -29,4 +29,14 @@
 
 ## Else
 
+### Blog
+
 TODO
+
+### Github
+
+- [SecWiki](https://github.com/SecWiki)
+
+### WeChat
+
+- [CTFer的魔法棒](https://bbs.ichunqiu.com/forum.php?mod=viewthread&tid=22497)
