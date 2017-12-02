@@ -283,7 +283,7 @@ Android sdk自带：`adb` ， `ddms`
     - 《IDA Pro权威指南》
     - 《Android软件安全与逆向分析》
 
-部分内容参考 @Misty & 腾讯玄武实验室@刘惠明
+部分内容参考 Tea Delivers@Misty & 腾讯玄武实验室@刘惠明
     
 
 
