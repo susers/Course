@@ -10,6 +10,7 @@
 
 - [MysqlInjection](2014-2015/10-MysqlInjection) from  **ymlbright**
 - [Xss](2014-2015/11-Xss)  from **ymlbright**
+- [常见攻击原理与防御方法](2014-2015/4-常见攻击原理与防御方法)
 
 ### 2015-2016
 
@@ -23,3 +24,5 @@ TODO
 
 - [HelloSUS](2017-2018/9-HelloSUS) from **Xu**
 - [Know it then Hack it](2017-2018/10-Know%20it%20the%20Hack%20it) from **SUSers**
+- [Misc](2017-2018/11-Misc) from **Xu**
+- [Web(从入门到入狱)](2017-2018/11-Web) from **imagemlt**

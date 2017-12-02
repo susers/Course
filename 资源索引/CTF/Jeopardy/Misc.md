@@ -20,6 +20,7 @@
 - Outline
     - [forensicswiki](http://forensicswiki.org/wiki/Main_Page)
 - Memory
+    - [CTF内存取证入坑指南](http://www.freebuf.com/column/152545.html)
     - [内存取证三项CTF赛题详解](http://www.freebuf.com/articles/rookie/145262.html)
 
 
